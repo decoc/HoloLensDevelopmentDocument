@@ -16,7 +16,8 @@ VRコンテンツ開発ガイドという名前ですが，HoloLens開発の入�
 
 ---
 ## ブログ/Qiita
-|||
+
+|タイトル|詳細|
 |:---|:---|
 |[MRが楽しい](http://bluebirdofoz.hatenablog.com/)|HoloLensに関する記事投稿数は断トツで多いです。内容も丁寧で読みやすいです。|
 |[D.YAMA Blog](http://blog.d-yama7.com/)|イラストも多く，HoloLensの入力周りについて非常に丁寧に説明されています。特に位置合わせに関する記事は参考になると思います。|
