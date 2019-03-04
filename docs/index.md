@@ -1,8 +1,9 @@
-# XRTK Document  
+# MRTK Document  
 本ページはMixedRealityアプリの開発Wikiになります。主にHoloLensとOSSであるMRTK及びXRTKに関する開発情報を扱います。
 
 ## 開発環境
-- [旧開発環境](./legacyDevelopEnvironment.md)
+- [HoloLens 2/MRTK2]
+- [HoloLens 1/MRTK](./legacyDevelopEnvironment.md)
 
 ## MRTK/XRTK
 
